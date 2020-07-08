@@ -1,0 +1,3 @@
+# Mars-Rover---Power-Board
+
+I was part of my school’s mars rover team and I was responsible for designing an appropriate power board that converted the battery voltage into usable regulated voltages for each module on the rover. The rover needed 3.3V, 5V, 12, and 24V rails. I used appropriate switch-mode and linear regulators to reliably generate the mentioned voltage rails. I also came up with an under-voltage-lockout circuitry for the rover’s battery. I also developed the machine vision algorithm (not included here) for one of the challenges in the mars rover competition. The competition took place in Utah, USA. The competition had gathered 32 international teams and our school succeeded to come in second in the competition. 
